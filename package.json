@@ -1,7 +1,7 @@
 {
    "name": "@Chisa/baileys",
    "version": "1.0.0",
-   "description": "Baileys -mod sedang dalam pengembangan. Upgrade sistem upload media newsletter + dukungan pesan interaktif, album, dan tipe pesan terbaru."
+   "description": "Baileys -mod sedang dalam pengembangan. Upgrade sistem upload media newsletter + dukungan pesan interaktif, album, dan tipe pesan terbaru.",
    "main": "lib/index.js",
    "type": "module",
    "scripts": {
